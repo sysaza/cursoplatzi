@@ -8,7 +8,7 @@ git int
 ****Iniciar Git****
 *******************
 
-**********************************
+
 *******Configuración de Git*******
 **********************************
 
@@ -20,7 +20,7 @@ git config --global
 git config --global user.name "SC"
 git config --global user.email "jesuscastellanospaez@hotmail.com"
 
-**********************************
+
 *******Configuración de Git*******
 **********************************
 
